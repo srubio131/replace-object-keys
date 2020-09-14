@@ -1,6 +1,6 @@
 {
     "name": "replace-object-keys",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Replace object keys to camel case from snake case",
     "main": "src/index.js",
     "scripts": {
@@ -11,8 +11,5 @@
     "repository": {
       "type": "git",
       "url": "git+https://github.com/srubio131/replace-object-keys.git"
-    },
-    "publishConfig": {
-      "registry": "https://npm.pkg.github.com/@srubio131"
     }
   }
